@@ -1,16 +1,9 @@
-# Change these first
 owner: CustomIPTV
 repo: RealTimeStatus
 
 sites:
   - name: Servidores
     url: http://suptv.co
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
     
 assignees:
   - CustomIPTV
@@ -19,10 +12,5 @@ status-website:
   baseUrl: /RealTimeStatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Custom IPTV Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  introTitle: "**Real-time server status**."
+  introMessage: This page shows in real time the status of the servers.
