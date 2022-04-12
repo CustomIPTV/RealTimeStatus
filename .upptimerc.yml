@@ -2,8 +2,10 @@ owner: CustomIPTV
 repo: RealTimeStatus
 
 sites:
-  - name: Servidores
+  - name: Servidor 1
     url: http://suptv.co
+  - name: Servidor 2
+    url: https://dash.centre6.co
     
 assignees:
   - CustomIPTV
