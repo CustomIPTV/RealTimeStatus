@@ -4,7 +4,7 @@
     "url": "http://suptv.co",
     "icon": "https://favicons.githubusercontent.com/suptv.co",
     "slug": "servidor-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 689,
     "timeMonth": 409,
     "timeYear": 366,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-01": 0
+    }
   },
   {
     "name": "Servidor 2",
