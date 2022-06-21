@@ -24,9 +24,9 @@
     "url": "https://dash.centre6.co",
     "icon": "https://favicons.githubusercontent.com/dash.centre6.co",
     "slug": "servidor-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 340,
     "timeMonth": 325,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
