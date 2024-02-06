@@ -1,7 +1,7 @@
 url: http://suptv.co
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2024-02-06T22:17:38.545Z
+status: down
+code: 500
+responseTime: 369
+lastUpdated: 2024-02-06T22:28:34.827Z
 startTime: 2022-04-12T13:15:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
