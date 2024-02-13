@@ -27,9 +27,9 @@
     "url": "https://dash.centre6.co",
     "icon": "https://icons.duckduckgo.com/ip3/dash.centre6.co.ico",
     "slug": "servidor-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +38,8 @@
     "timeWeek": 300,
     "timeMonth": 395,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-13": 0
+    }
   }
 ]
