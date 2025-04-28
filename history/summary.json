@@ -4,19 +4,19 @@
     "url": "http://suptv.co",
     "icon": "https://icons.duckduckgo.com/ip3/suptv.co.ico",
     "slug": "servidor-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 292,
+    "timeDay": 284,
+    "timeWeek": 296,
+    "timeMonth": 291,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-04-28": 32,
+      "2025-04-28": 41,
       "2025-02-27": 16,
       "2024-06-19": 21
     }
@@ -26,19 +26,19 @@
     "url": "https://dash.centre6.co",
     "icon": "https://icons.duckduckgo.com/ip3/dash.centre6.co.ico",
     "slug": "servidor-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 424,
-    "timeDay": 10102,
-    "timeWeek": 4244,
-    "timeMonth": 1477,
-    "timeYear": 445,
+    "timeDay": 8147,
+    "timeWeek": 3888,
+    "timeMonth": 1444,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-04-28": 21
+      "2025-04-28": 30
     }
   }
 ]
