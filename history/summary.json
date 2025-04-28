@@ -25,17 +25,19 @@
     "url": "https://dash.centre6.co",
     "icon": "https://icons.duckduckgo.com/ip3/dash.centre6.co.ico",
     "slug": "servidor-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 280,
-    "timeWeek": 330,
-    "timeMonth": 326,
-    "timeYear": 338,
-    "dailyMinutesDown": {}
+    "time": 384,
+    "timeDay": 10036,
+    "timeWeek": 2763,
+    "timeMonth": 934,
+    "timeYear": 391,
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   }
 ]
