@@ -6,17 +6,17 @@
     "slug": "servidor-1",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 284,
-    "timeWeek": 296,
-    "timeMonth": 291,
+    "timeDay": 319,
+    "timeWeek": 310,
+    "timeMonth": 292,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-04-28": 41,
+      "2025-04-28": 31,
       "2025-02-27": 16,
       "2024-06-19": 21
     }
@@ -28,17 +28,17 @@
     "slug": "servidor-2",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 8147,
-    "timeWeek": 3888,
-    "timeMonth": 1444,
-    "timeYear": 444,
+    "timeDay": 8180,
+    "timeWeek": 3899,
+    "timeMonth": 1448,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-04-28": 30
+      "2025-04-28": 21
     }
   }
 ]
