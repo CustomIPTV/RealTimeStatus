@@ -4,7 +4,7 @@
     "url": "http://suptv.co",
     "icon": "https://icons.duckduckgo.com/ip3/suptv.co.ico",
     "slug": "servidor-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "90.32%",
     "uptimeWeek": "98.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 967,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2026-04-12": 0,
       "2026-04-11": 139,
       "2025-12-12": 29,
       "2025-12-02": 32,
